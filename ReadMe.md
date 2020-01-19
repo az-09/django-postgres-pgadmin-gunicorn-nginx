@@ -20,6 +20,8 @@ Docker-Compose
 
 
 References:
+
     https://github.com/khezen/compose-postgres
+    
     https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
     
